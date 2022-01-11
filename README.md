@@ -1,5 +1,5 @@
 # SALL
-official implementation for IEEE JBHI paper 'Synergic Adversarial Label Learning for Grading Retinal Diseases via Knowledge Distillation and Multi-task Learning'
+Official implementation for IEEE JBHI paper 'Synergic Adversarial Label Learning for Grading Retinal Diseases via Knowledge Distillation and Multi-task Learning'
 
 >@article{ju2021synergic,<br>
   title={Synergic Adversarial Label Learning for Grading Retinal Diseases via Knowledge Distillation and Multi-task Learning},<br>
@@ -8,3 +8,7 @@ official implementation for IEEE JBHI paper 'Synergic Adversarial Label Learning
   year={2021},<br>
   publisher={IEEE}<br>
 }
+
+## To Do
+
+Pytorch implementation.
