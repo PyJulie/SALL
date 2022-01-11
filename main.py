@@ -90,8 +90,8 @@ with open('pretrain/299_softmax_ground_truth.txt','r') as f:
         dic_image[image_name[:-1]] = label[:-1]
 
 
-train_generator = data_generator(train_samples,batch_size,base_image_dir,dic,dic_image)
-test_generator = data_generator(test_samples,batch_size,base_image_dir,dic,dic_image)
+train_generator = generator(train_samples,batch_size,base_image_dir,dic,dic_image)
+test_generator = generator(test_samples,batch_size,base_image_dir,dic,dic_image)
 
 
 best_weights_filepath = 'checkpoints/299_yes_multi_task_t_100.hdf5'
