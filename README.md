@@ -1,6 +1,8 @@
 # SALL
 Official implementation for IEEE JBHI paper 'Synergic Adversarial Label Learning for Grading Retinal Diseases via Knowledge Distillation and Multi-task Learning'
 
+Please cite:
+
 >@article{ju2021synergic,<br>
   title={Synergic Adversarial Label Learning for Grading Retinal Diseases via Knowledge Distillation and Multi-task Learning},<br>
   author={Ju, Lie and Wang, Xin and Zhao, Xin and Lu, Huimin and Mahapatra, Dwarikanath and Bonnington, Paul and Ge, Zongyuan},<br>
