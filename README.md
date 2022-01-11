@@ -13,7 +13,7 @@ Please cite:
 
 This work uses a private datasets. You can find some useful dataset [here](https://github.com/nkicsl/Fundus_Review).
 
-Also, you can try a cifar-10 dataset as a toy experiment. Our methods can also achieve improvments on those classes with similar features.
+Also, you can try a cifar-10 (5/5) dataset as a toy experiment. Our methods can also achieve improvments on those classes with similar features.
 
 |             | Task A (1-5) | Task B (6-10) |
 |-------------|--------------|---------------|
