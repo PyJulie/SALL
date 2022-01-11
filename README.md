@@ -11,6 +11,15 @@ Please cite:
   publisher={IEEE}<br>
 }
 
+This work uses a private datasets. You can find some useful dataset [here](https://github.com/nkicsl/Fundus_Review).
+
+Also, you can try a cifar-10 dataset as a toy experiment. Our methods can also achieve improvments on those classes with similar features.
+
+|             | Task A (1-5) | Task B (6-10) |
+|-------------|--------------|---------------|
+| Single Task | 91.80        | 95.84         |
+| Ours        | 92.70        | 96.60         |
+
 ## To Do
 
 Pytorch implementation.
