@@ -1,7 +1,7 @@
 import numpy as np
 from scipy import misc
 from keras.applications.inception_v3 import preprocess_input
-def data_generator(data,batch_size,base_image_dir,dic,dic_image):
+def generator(data,batch_size,base_image_dir,dic,dic_image):
     while True:
         batch = np.random.choice(data, batch_size)
         x,y = [],[]
